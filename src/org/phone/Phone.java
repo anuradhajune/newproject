@@ -9,7 +9,7 @@ System.out.println("IMEI :"+ imei);
 System.out.println("Made in "+ make);
 }
 private void phoneInfo(String email, long phno) {
-System.out.println("Email :"+ email);
+System.out.println("Email id firld :"+ email);
 System.out.println("Phonenumber:"+ phno);
 
 }
